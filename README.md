@@ -1,4 +1,5 @@
-📊 Manufacturing Efficiency Dashboard | Power BI Project
+# 📊 Manufacturing Efficiency Dashboard | Power BI Project
+
 Welcome to my Power BI Manufacturing Dashboard Project, where data meets decision-making! This dashboard offers a comprehensive view of manufacturing operations, providing real-time insights into production efficiency, defect rates, downtime, and operator/machine performance.
 
 🛠️ Project Overview
